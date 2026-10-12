@@ -1,0 +1,4 @@
+﻿gamma,greedy_mean_return,greedy_mean_return_std,greedy_success_percent,greedy_success_percent_std,greedy_risk_percent,greedy_risk_percent_std,greedy_mean_steps_if_success,greedy_mean_steps_if_success_std,epsilon_greedy_mean_return,epsilon_greedy_mean_return_std,epsilon_greedy_success_percent,epsilon_greedy_success_percent_std,epsilon_greedy_risk_percent,epsilon_greedy_risk_percent_std,epsilon_greedy_mean_steps_if_success,epsilon_greedy_mean_steps_if_success_std
+0.5,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.96,0.0,100.0,0.0,4.0,0.0,8.841666666666667,0.054822947344661525
+0.9,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.945,0.014719601443879708,100.0,0.0,5.333333333333333,1.5456030825826172,8.766666666666667,0.057348835113617734
+0.99,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.9349999999999999,0.010801234497346393,100.0,0.0,6.166666666666667,1.3123346456686351,8.928333333333333,0.034721111093333104

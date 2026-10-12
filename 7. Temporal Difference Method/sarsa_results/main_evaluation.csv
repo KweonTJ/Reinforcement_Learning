@@ -1,0 +1,3 @@
+﻿evaluation,epsilon,mean_return,success_percent,risk_percent,mean_steps_if_success
+greedy,0.0,1.0,100.0,0.0,8.0
+epsilon_greedy,0.1,0.98,100.0,2.0,10.275

@@ -1,0 +1,6 @@
+﻿epsilon,greedy_mean_return,greedy_mean_return_std,greedy_success_percent,greedy_success_percent_std,greedy_risk_percent,greedy_risk_percent_std,greedy_mean_steps_if_success,greedy_mean_steps_if_success_std,epsilon_greedy_mean_return,epsilon_greedy_mean_return_std,epsilon_greedy_success_percent,epsilon_greedy_success_percent_std,epsilon_greedy_risk_percent,epsilon_greedy_risk_percent_std,epsilon_greedy_mean_steps_if_success,epsilon_greedy_mean_steps_if_success_std
+0.0,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0
+0.05,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.9783333333333334,0.004714045207910321,100.0,0.0,2.1666666666666665,0.4714045207910317,8.486666666666666,0.05169354139756982
+0.1,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.9666666666666667,0.012472191289246483,100.0,0.0,3.3333333333333335,1.247219128924647,8.839999999999998,0.08164965809277232
+0.3,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.7949999999999999,0.050166389810974696,100.0,0.0,17.0,3.2403703492039297,11.566666666666668,0.21765160744231157
+0.5,1.0,0.0,100.0,0.0,0.0,0.0,8.0,0.0,0.5133333333333333,0.09095175766428165,100.0,0.0,32.333333333333336,3.7932688922470157,16.68,0.46222288995678157
