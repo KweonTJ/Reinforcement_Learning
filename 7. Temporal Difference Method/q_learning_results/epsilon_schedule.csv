@@ -1,3 +1,0 @@
-﻿schedule,evaluation_epsilon,mean_return,mean_return_std,success_percent,success_percent_std,risk_percent,risk_percent_std
-fixed_0.1,0.1,0.9416666666666665,0.0023570226039551605,100.0,0.0,5.666666666666667,0.23570226039551584
-linear_0.5_to_0.05,0.05,0.98,0.004082482904638634,100.0,0.0,2.0,0.408248290463863
